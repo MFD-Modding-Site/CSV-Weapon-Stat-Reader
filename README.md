@@ -8,12 +8,15 @@ NOTE: When reading Marvel4's statesheets, make sure to click "Raw Weapons" tab a
 
 The tool also allows you to select weapon type, and that is stored on the selected weapon so you don't need to keep changing it for a particular weapon and if you want to run through then do save all.
 
-# Credit
+# Credits
+* Scobalula (for creating the original project)
+* ModdingForDummies (for forking this project, and fixing it to make it run again)
 
+# Original Credits (Scobalula's original program)
 * Collie (Suggesting it)
 * Marvel4 (Raw Weapon Stats being the reason this was made that are on point)
 * Amazing people of Stackoverflow (me still C# nublet)
-* Scobalula (for creating the original project)
+
 
 # License
 
