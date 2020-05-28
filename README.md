@@ -15,6 +15,7 @@ The tool also allows you to select weapon type, and that is stored on the select
 * Collie (Suggesting it)
 * Marvel4 (Raw Weapon Stats being the reason this was made that are on point)
 * Amazing people of Stackoverflow (me still C# nublet)
+* Scobalula (for creating the original project)
 
 # License
 
