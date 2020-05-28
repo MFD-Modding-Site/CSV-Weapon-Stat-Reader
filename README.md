@@ -1,6 +1,5 @@
 # CSVWeaponStatReader
 
-<div style="text-align:center"><img src ="https://i.imgur.com/egtdqDo.png"/></div>
 
 This tool will read CSV files with Call of Duty Weapon stats stored in them, specifically Marvel4's raw spreadsheets (i.e. with headers named the same as those used in APE/Asset Manager.) and save them to a GDT. I made this tool in less than a few hours but I hope it saves most people countless hours in copying stats from a raw spreadsheet.
 
@@ -22,6 +21,5 @@ The tool also allows you to select weapon type, and that is stored on the select
 
 The tool is released under GPL 3.0 and is free to use and modify. The tool is provided with NO warranty at all, you retain full responsibility, I am not responsible for any damages.
 
-# Changelogs
-
-Trying to see if this will work, Does this work?
+# Our Forums
+https://moddingfordummies.proboards.com/
