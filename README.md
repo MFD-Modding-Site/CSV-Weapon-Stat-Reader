@@ -18,9 +18,3 @@ The tool also allows you to select weapon type, and that is stored on the select
 # License
 
 The tool is released under GPL 3.0 and is free to use and modify. The tool is provided with NO warranty at all, you retain full responsibility, I am not responsible for any damages.
-
-# Donations
-
-A lot of work is put into my tools, feel like buying me a drink? Click here:
-
-[![Donate](https://img.shields.io/badge/Donate-PayPal-yellowgreen.svg)](https://www.paypal.me/scobalula) 
